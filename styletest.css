@@ -13,3 +13,19 @@ div#test01 {
 .important {
   color: #a00;
 }
+
+.el{
+  color:#00a;
+}
+
+.ol{
+  color: #a00;
+}
+
+.last3{
+  font-weight: bold;
+}
+
+.name{
+  text-align: center;
+}
